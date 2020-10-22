@@ -9,6 +9,9 @@ test User:
 admin@test.com   
 P@ssw0rd
 
+![alt text](https://www.codeproject.com/KB/aspnet/5165567/Permissions_Menu.png)
+
+
 Useful links:
 
 https://medium.com/@dmitrysikorsky/asp-net-core-custom-user-manager-a7206e718a90
